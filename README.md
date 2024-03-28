@@ -34,7 +34,7 @@ Check out the live demo [here](https://anajananashvili7.github.io/Calculator/).
 This calculator was created by **Ana Jananashvili**.
 
 Connect with Ana on &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ana-jananashvili/">
+<a href="https://www.linkedin.com/in/ana-jananashvili-a920211b6/">
   <img src="https://img.shields.io/badge/LinkedIn-Ana_Jananashvili-blue.svg" alt="LinkedIn: Ana Jananashvili">
 </a>
 
